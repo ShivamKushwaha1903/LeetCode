@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0344-reverse-string](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->

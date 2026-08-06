@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search

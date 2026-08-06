@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0704-binary-search) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Interactive
 |  |
 | ------- |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0410-split-array-largest-sum](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Stack
 |  |
 | ------- |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |

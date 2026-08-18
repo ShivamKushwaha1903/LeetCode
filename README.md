@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0567-permutation-in-string) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/ShivamKushwaha1903/LeetCode/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
